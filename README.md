@@ -1,3 +1,7 @@
+
+![etl](https://github.com/sncrsenyurt/Crowdfunding_ETL/assets/35157651/5e5e07aa-e582-496e-bf0c-ae447b0e4559)
+
+
 # Crowdfunding_ETL
 ETL - Extract Data from Excel file, Transform data, Load data to PostgreSQL database
 
