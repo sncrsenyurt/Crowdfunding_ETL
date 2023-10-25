@@ -1,5 +1,6 @@
 
-![etl](https://github.com/sncrsenyurt/Crowdfunding_ETL/assets/35157651/5e5e07aa-e582-496e-bf0c-ae447b0e4559)
+
+![etl](https://github.com/sncrsenyurt/Crowdfunding_ETL/assets/35157651/09c7930e-ad31-485b-a050-2f9daee15261)
 
 
 # Crowdfunding_ETL
